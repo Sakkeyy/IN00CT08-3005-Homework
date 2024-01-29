@@ -1,6 +1,6 @@
 # Viikko 3 Login UI toteutus
 
-Login näkymän input osiot hoitaa error handlingin puuttellsia tietoja syötettäessä, tässä tapauksessa: jos username on > 0 ja tai password > 8
+Login näkymän input osiot hoitaa error handlingin puuttellsia tietoja syötettäessä, tässä tapauksessa: jos username on < 0 ja tai password < 7
 
 
 ![Nimetön](https://github.com/Sakkeyy/IN00CT08-3005-Homework/assets/127964245/b5053e26-192b-4ffd-903a-43e5c448d8e4)
